@@ -1,0 +1,15 @@
+{
+  "cep": "04007001",
+  "state": "SP",
+  "city": "São Paulo",
+  "neighborhood": "Vila Mariana",
+  "street": "Rua Tutóia",
+  "service": "open-cep",
+  "location": {
+    "type": "Point",
+    "coordinates": {
+      "longitude": "-46.6515940",
+      "latitude": "-23.5735243"
+    }
+  }
+}
