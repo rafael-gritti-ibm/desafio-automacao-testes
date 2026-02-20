@@ -28,6 +28,6 @@ tests\inventory.spec.ts --> teste front-end interface
 
 tests\login.spec.ts --> teste front-end interface
 
-# Estratégia adotada
+# Estratégia Adotada
     - Testes de back-end API, dos cenários #001 a #005 (vide arquivo xlsx), do site API Brasil https://brasilapi.com.br/api
     - Testes de front-end funcionais de interface, dos cenários #006 a #012 (vide arquivo xlsx), do site SauceDemo https://www.saucedemo.com/
